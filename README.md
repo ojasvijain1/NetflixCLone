@@ -22,7 +22,7 @@ This project is a Netflix website clone created using HTML and CSS. It is a stat
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/ojasvijain1/netflix-clone.git
 
 ## Usage
 
